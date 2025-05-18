@@ -7,12 +7,12 @@
   "theme_color": "#ffffff",
   "icons": [
     {
-      "src": "https://drive.google.com/uc?export=download&id=1-VYhHbfmSevXaTWp9PmfnUBO7DNnHKQd",
+      "src": "https://raw.githubusercontent.com/dimonddd/pwa-manifest-mavto/main/final-icon-192.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://drive.google.com/uc?export=download&id=1iw8335MIkWEVYIQeYBNlu-K4vhl80qfd",
+      "src": "https://raw.githubusercontent.com/dimonddd/pwa-manifest-mavto/main/final-icon-512.png",
       "sizes": "512x512",
       "type": "image/png"
     }
